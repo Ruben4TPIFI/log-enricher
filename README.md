@@ -108,8 +108,6 @@ MAX_404 = 10       # Suspicious if 10+ 404 responses
 SENSITIVE_PATHS = [...]  # Add/remove paths as needed
 ```
 
-## License
-
 MIT License
 
 ## Author
